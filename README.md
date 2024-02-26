@@ -20,11 +20,11 @@ Abaixo está uma descrição completa dos atributos presentes no  arquivo CSV:
 | depedentes | Número de dependentes financeiros |
 | escolaridade | Nível de escolaridade |
 | estado_civil | Estado civil |
-| salario_anual | Faixa do salario mensal multiplicado por 12 |
-| tipo_cartao | Categoria do cartao |
+| salario_anual | Faixa do salário mensal multiplicado por 12 |
+| tipo_cartao | Categoria do cartão |
 | meses_de_relacionamento | Quantidade de meses desde a abertura da conta |
 | qtd_produtos | Quantidade de produtos contratados |
-| iteracoes_12m | Quantidade de iteracoes com o cliente no último ano |
+| iteracoes_12m | Quantidade de iterações com o cliente no último ano |
 | meses_inatico_12m | Quantidade de meses que o cliente ficou inativo no último ano |
 | limite_credito | Valor do limite do cartão de crédito |
 | valor_transacoes_12m | Soma total do valor das transações no cartão de crédito no último ano |
