@@ -21,7 +21,7 @@ Abaixo está uma descrição completa dos atributos presentes no  arquivo CSV:
 | escolaridade | Nível de escolaridade |
 | estado_civil | Estado civil |
 | salario_anual | Faixa do salario mensal multiplicado por 12 |
-| tipo_cartao | Categoria do cartao: blue, silver, gold e platinium |
+| tipo_cartao | Categoria do cartao |
 | meses_de_relacionamento | Quantidade de meses desde a abertura da conta |
 | qtd_produtos | Quantidade de produtos contratados |
 | iteracoes_12m | Quantidade de iteracoes com o cliente no último ano |
