@@ -1,13 +1,12 @@
 # **Análise de Crédito e Inadimplência**
 
-### Projeto final do módulo ‘Python para Análise de Dados’, parte integrante do curso de Ciência de Dados da EBAC
----
+## Projeto final do módulo ‘Python para Análise de Dados’, parte integrante do curso de Ciência de Dados da EBAC
 
-O objetivo dessa análise é investigar os fatores que contribuem para a inadimplência de um cliente, com base em seu comportamento e outros atributos, como salário, escolaridade e movimentação financeira.
- 
-Para isso, vamos explorar os dados de crédito disponíveis no seguinte [link](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv). Esses dados estão em formato CSV e fornecem informações sobre os clientes de uma instituição financeira.
+O objetivo desta análise é investigar os fatores que contribuem para a inadimplência de um cliente, com base em seu comportamento e outros atributos, como salário, escolaridade e movimentação financeira.
 
-Especificamente, concentraremos nossa atenção na segunda coluna, denominada default, que indica se um cliente é adimplente (default = 0) ou inadimplente (default = 1).
+Para isso, vamos explorar os dados de crédito disponíveis no seguinte [link](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv). Esses dados estão em formato CSV e fornecem informações sobre os clientes de uma instituição financeira. (Fornecidos por [André Perez](https://www.linkedin.com/in/andremarcosperez/))
+
+Especificamente, concentraremos nossa atenção na segunda coluna, denominada "default", que indica se um cliente é adimplente (default = 0) ou inadimplente (default = 1).
 
 Abaixo está uma descrição completa dos atributos presentes no  arquivo CSV:
 
@@ -29,4 +28,3 @@ Abaixo está uma descrição completa dos atributos presentes no  arquivo CSV:
 | limite_credito | Valor do limite do cartão de crédito |
 | valor_transacoes_12m | Soma total do valor das transações no cartão de crédito no último ano |
 | qtd_transacoes_12m | Quantidade total de transações no cartão de crédito no último ano |
-
