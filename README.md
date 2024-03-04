@@ -28,3 +28,5 @@ Abaixo está uma descrição completa dos atributos presentes no  arquivo CSV:
 | limite_credito | Valor do limite de crédito do cartão |
 | valor_transacoes_12m | Valor total das transações no cartão de crédito no último ano |
 | qtd_transacoes_12m | Quantidade total de transações no cartão de crédito no último ano |
+
+- Você pode conferir os resultados da análise [aqui](https://github.com/vicentee148/Analise-de-Credito-e-Inadimplencia/blob/main/RESULTADOS.md)
